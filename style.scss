@@ -75,7 +75,7 @@ p {
 }
 
 a {
-  color: $oc-red-8;
+  color: $oc-cyan-7;
   text-decoration: none;
   cursor: pointer;
   &:hover, &:active {
@@ -396,7 +396,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $oc-red-8;
+      color: $oc-cyan-7;
     }
   }
 }
