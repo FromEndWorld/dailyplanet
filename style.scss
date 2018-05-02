@@ -75,11 +75,11 @@ p {
 }
 
 a {
-  color: $oc-cyan-7;
+  color: $oc-indigo-7;
   text-decoration: none;
   cursor: pointer;
   &:hover, &:active {
-    color: $oc-cyan-6;
+    color: $oc-indigo-6;
   }
 }
 
@@ -312,14 +312,11 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
-  // border-bottom: 4px solid $oc-cyan-8;
-  // padding-top: 20px;
+  margin-bottom: 40px;
 }
 
 .masthead {
-  padding: 20px 0;
- // border-bottom: 1px solid $lightGray;
+  padding: 20px 0 10px;
 
   @include mobile {
     text-align: center;
@@ -340,46 +337,56 @@ img {
   }
 
   img {
-    border-radius: 5px;
+    margin: 0 auto;
   }
 }
 
 .site-info {
   float: none;
+  border-top: 1px solid $oc-gray-7;
+  border-bottom: 1px solid $oc-gray-7;
+  margin: 20px -60px 0;
+  padding: 0 60px;
 
   @include mobile {
     float: none;
     display: block;
     margin: 0 auto;
+    padding: 0 auto;
   }
 }
 
 .site-name {
   display:inline-block;
-  margin: 0;
+  margin: 5px 0 0;
   color: $oc-gray-9;
   cursor: pointer;
   font-family: $base-font;
   font-weight: bold;
-  font-size: 28px;
+  font-size: 24px;
   letter-spacing: 1px;
+  line-height: 40px;
 }
 
 .site-description {
-  margin: -5px 0 0 0;
+  margin: 0 0 0 12px;
   color: $oc-gray-6;
   font-size: 16px;
+  display: inline-block;
+  line-height: 40px;
 
   @include mobile {
-    margin: 3px 0;
+    display: none;
   }
 }
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  // margin-top: 23px; // @TODO: Vertically middle align
   font-family: $base-font;
   font-size: 18px;
+  line-height: 40px;
+  margin-top: 6px;
 
   @include mobile {
     float: none;
@@ -397,7 +404,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $oc-cyan-7;
+      color: $oc-indigo-7;
     }
   }
 }
