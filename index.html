@@ -14,6 +14,10 @@ layout: default
       </h1>
 
       <div clsss="meta">
+        <span class="author">
+          {{ author }}
+        </span>
+
         <span class="date">
           {{ post.date | date: "%Y-%m-%d" }}
         </span>
@@ -30,10 +34,14 @@ layout: default
       </div>
 
       <div class="entry">
-        {{ post.excerpt }}
+        <div class="title-image-thumb">
+          <img src="{{ title-image }}">
+        </div>
+        <div class="summery">
+          {{ post.excerpt }}
+        </div>
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
       </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
 </div>

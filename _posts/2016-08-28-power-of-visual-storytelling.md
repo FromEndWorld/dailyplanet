@@ -4,6 +4,8 @@ title:  "视觉叙事的力量"
 date:   2016-08-28
 tags: [BVS, 视觉]
 description: 对台词多寡的驳论——电影依然是移动的影响
+title-image: https://pic2.zhimg.com/0884402e0d3d743c90fa299c9f3261e2_1200x500.jpg
+author: The Sentry
 ---
 
 翻译自 **[The Power of Visual Storytelling](https://link.zhihu.com/?target=http%3A//www.the-fanboy-perspective.com/the-power-of-visual-storytelling.html)**
