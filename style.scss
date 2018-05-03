@@ -419,6 +419,10 @@ nav {
   min-height: 236px;
 
   .entry{
+    h1{
+      font-size: 24px;
+    }
+    
     .title-image-thumb{
       float: left;
       display: inline-block;
@@ -455,7 +459,6 @@ nav {
 
   h1 {
     margin-bottom: .1em;
-    font-size: 24px;
   }
 
   .author {
