@@ -4,6 +4,8 @@ title:  "【系列报道】谁杀死了《正义联盟》？（一）"
 date:   2018-04-06
 tags: [正义联盟, DCEU]
 description: 电影之外的分析，DCEU的悲剧与未来。
+title-image: https://pic3.zhimg.com/v2-09ea6fb60566ff6aeadc55cdd9bd0569_1200x500.jpg
+author: 来自中世界
 ---
 
 **【警告】**这篇文章不好看，充满了啰嗦指责，可说全文都是马后炮，而且其中不少内容都是我在微博和其他平台已经说过的。

@@ -4,6 +4,8 @@ title:  "黎明前的黑暗——浅析BvS超人之死"
 date:   2016-08-15
 tags: [BVS, 超人]
 description: 关于BVS的超人角色塑造
+title-image: https://pic1.zhimg.com/34af55140afb2f7677a72dadc6d67ae3_r.jpg
+author: 来自中世界
 ---
 
 我之前在[这个回答](https://www.zhihu.com/question/49265042/answer/115254993)里写的时候……东一耙子西一扫帚，非常凌乱，现在想把这点内容整理一下，变成一个有逻辑一些的文章。
