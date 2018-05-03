@@ -38,9 +38,9 @@ layout: default
           <img src="{{ post.title-image }}">
         </div>
         <div class="summery">
-          {{ post.excerpt }}
+          {{ post.excerpt }} <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
         </div>
-        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+        
       </div>
     </article>
   {% endfor %}
