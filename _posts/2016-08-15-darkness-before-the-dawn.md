@@ -4,7 +4,7 @@ title:  "黎明前的黑暗——浅析BvS超人之死"
 date:   2016-08-15
 tags: [BVS, 超人]
 description: 关于BVS的超人角色塑造
-title-image: https://pic1.zhimg.com/34af55140afb2f7677a72dadc6d67ae3_r.jpg
+title-image: https://i.loli.net/2018/05/05/5aedc51d14bd8.jpg
 author: 来自中世界
 ---
 
@@ -34,7 +34,7 @@ author: 来自中世界
 
 这，是扎导一直以来想要通过他的电影与我们探讨的问题：**如果超人是真的，会是什么情形？**
 
-![img](https://pic1.zhimg.com/80/b386d3c35243f88037c97d73aeebfb11_hd.jpg)
+![img](https://i.loli.net/2018/05/05/5aedc51ce8ffd.jpg)
 
 其实这个**被动语态**非常耐人寻味，但是很难翻译：超人并非主动现身人间，而人类也并非主动接受他的存在。
 
@@ -120,9 +120,9 @@ author: 来自中世界
 
 他的公众首秀是这样的：
 
-![img](https://pic2.zhimg.com/80/68ae4c9974012d41e4e496c9e1833450_hd.jpg)
+![img](https://i.loli.net/2018/05/05/5aedc51d08cf5.jpg)
 
-![img](https://pic3.zhimg.com/80/48b54781fbdac6a015678100625c6499_hd.jpg)
+![img](https://i.loli.net/2018/05/05/5aedc51d09339.jpg)
 
 在这个时刻，从地面上人的视角这是何等的混乱、恐怖、迷惑？人们甚至搞不清这是这些外星人是在袭击城市还是互相对战。那个轰平了一片城区的飞船为啥突然消失了？它还会回来吗？到底有几个外星人在现场？他们在干什么？天上掉下来的是什么？某种武器吗？
 
@@ -131,20 +131,20 @@ author: 来自中世界
 从MoS到BvS期间这段时间超人在做什么？
 到处救人。但是几乎是……只救人。
 
-![img](https://pic3.zhimg.com/80/3a1cb3a5439c4dae568b6ee190443725_hd.jpg)
+![img](https://i.loli.net/2018/05/05/5aedc51d09841.jpg)
 
 但是他的状态是我们熟悉的超人日常吗？
 不是。
 怎么个不是法？
 来感受一下这段montage的画风。
 
-![img](https://pic1.zhimg.com/80/82e6ca05783af187f8ff64d510251ac9_hd.jpg)
+![img](https://i.loli.net/2018/05/05/5aedc57b34365.jpg)
 
-![img](https://pic2.zhimg.com/80/aeaa8b922af8c209abef6549ec8c2bcb_hd.jpg)
+![img](https://i.loli.net/2018/05/05/5aedc57b21e39.jpg)
 
-![img](https://pic3.zhimg.com/80/c7f155df3bacfa20e1e2916c42cf869f_hd.jpg)
+![img](https://i.loli.net/2018/05/05/5aedc57b2361d.jpg)
 
-![img](https://pic4.zhimg.com/80/12741cb959740dd484987827e6a55696_hd.jpg)
+![img](https://i.loli.net/2018/05/05/5aedc594e0114.jpg)
 
 这些非常风格化的古典油画一样的镜头在宗教隐喻的同时表达怎样一个共同的主题？
 
@@ -152,7 +152,7 @@ author: 来自中世界
 
 即使他是超人，他所承担的依然是一种无法达成的期望：难说那些伸手摸他的人有没有相信什么摸超人治百病之类的话啊！
 
-![img](https://pic2.zhimg.com/80/829516187785c95f7a1d63a19949e1a0_hd.jpg)
+![img](https://i.loli.net/2018/05/05/5aedc594e3779.jpg)
 
 这座雕塑最直接的映射是巨人
 
@@ -177,7 +177,7 @@ Atlas (mythology)
 
 让超人独自来建立超级英雄的概念与行动模式，其中困难大家从大超的脸上感受一下吧，其中的不可能性，上面也已经说了。
 
-![img](https://pic4.zhimg.com/80/7a3ff5cdf89ce154f30912a092907f5a_hd.jpg)
+![img](https://i.loli.net/2018/05/05/5aedc594e3c93.jpg)
 
 当芬奇议员呼唤超人前来参加听证会的时候，他去寻求母亲的建议。
 
@@ -195,7 +195,7 @@ Atlas (mythology)
 
 剧作原理中非常关键的一条就是：**要给予你的主人公足够强大的对抗力量**，要挑战他，给予他最大的压力，让他陷入最糟糕的情形，故事不是用来讲述生活的中间情形的，只有压力下的选择，才能体现角色本性。
 
-![img](https://pic3.zhimg.com/80/bb756945c3993e7f54e9612c170fd818_hd.jpg)
+![img](https://i.loli.net/2018/05/05/5aedc57b2528c.jpg)
 
 这场爆炸是莱克斯的胜利，也是整个电影中最有力的场景之一。这个时刻，超人的角色弧被压到了第一个低点：他几乎决定放弃了。
 
@@ -203,7 +203,7 @@ Atlas (mythology)
 >
 > **超人从来都不是真的，他只是一个堪萨斯农民的梦。**
 
-![img](https://pic3.zhimg.com/80/9197ab7861ed82f5ab8640cd72fd8376_hd.jpg)
+![img](https://i.loli.net/2018/05/05/5aedc57b27fde.jpg)
 
 这段阳台上的对话，露易丝想要告诉超人莱克斯的阴谋，然而超人打断了她。
 
@@ -221,9 +221,9 @@ Atlas (mythology)
 
 但是接下来，莱克斯再次打碎了他的希望：
 
-![img](https://pic2.zhimg.com/80/a61814fd80a4c1c5b0e23573f46cacad_hd.jpg)
+![img](https://i.loli.net/2018/05/05/5aedc57b26920.jpg)
 
-![img](https://pic2.zhimg.com/80/1f15e5f28515d1a808d3de7e36308866_hd.jpg)
+![img](https://i.loli.net/2018/05/05/5aedc59519675.jpg)
 
 这，是超人角色弧光的最低点。
 
@@ -303,7 +303,7 @@ Atlas (mythology)
 >
 > **我会给你一个承诺：玛莎今晚不会死。**
 
-![img](https://pic2.zhimg.com/80/63e01a7751e9529bd899bbfed4426b43_hd.jpg)
+![img](https://i.loli.net/2018/05/05/5aedc5951a8fe.jpg)
 
 这一刻超人看到了，这种潜质已经变成现实，他亲眼目睹了迷失的愤怒的蝙蝠侠从黑暗中获得救赎，放弃杀人的任务，做出拯救的承诺。
 
@@ -317,9 +317,9 @@ Atlas (mythology)
 >
 > **这是我的世界，你是我的世界**。
 
-![img](https://pic1.zhimg.com/80/043eb0ca820aa46c2992b1831e2515c0_hd.jpg)
+![img](https://i.loli.net/2018/05/05/5aedc59519c35.jpg)
 
-![img](https://pic1.zhimg.com/80/a68b7f9135a09c68f65f8d25814d1f27_hd.jpg)
+![img](https://i.loli.net/2018/05/05/5aedc57b1b5ed.jpg)
 
 废话一句：这一矛不可能让蝙蝠侠去捅，蝙蝠侠绝对没有这个力量捅穿毁灭日，而且在这个毁灭日受伤爆发的能量中估计瞬间他就成灰了。这一矛或许大约可以让神奇女侠去捅，但是让刚认识几分钟的战友替自己去搞自杀式袭击的话…………才是彻底崩掉了超人的人设呢。
 
@@ -413,7 +413,7 @@ Goyer称之为一个三部曲，它有一条贯穿始终的主题线：
 
 这样一个未来，就是布鲁斯，与全人类在超人死后得到的激励与启示。
 
-![img](https://pic1.zhimg.com/80/34af55140afb2f7677a72dadc6d67ae3_hd.jpg)
+![img](https://i.loli.net/2018/05/05/5aedc57b3a875.jpg)
 
 ## 六、 从来都没有什么是简单的 Nothing is ever simple
 
@@ -431,7 +431,7 @@ BvS就是太有诚意了，我无法停止强调这是怎样一种诚意。它�
 
 就像是这座超人雕塑，他谦卑地低下身躯向我们伸出一只手，他在邀请我们接受他所带来的激励与希望，让我们随他走向阳光。
 
-![img](https://pic4.zhimg.com/80/b287675eef88fc85a2ae00e93103db08_hd.jpg)
+![img](https://i.loli.net/2018/05/05/5aedc5951a310.jpg)
 
 要想让观众参与进这种思索与对话中来，对一部超人的电影来说，其实格外困难，因为太多人的思维会被我们78年来对超人的固有印象所限制，所以我会在开头请大家一定要忘记微笑的里夫超。
 

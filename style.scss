@@ -417,10 +417,7 @@ nav {
   padding-bottom: 2em;
   border-bottom: 1px solid $divider-color;
   min-height: 236px;
-  h1{
-      font-size: 24px;
-    }
-
+  
   .entry{
 
     .title-image-thumb{
@@ -457,6 +454,10 @@ nav {
 .posts > .post:last-child {
   padding-bottom: 1em;
   border-bottom: none;
+}
+
+.posts > .post h1 {
+    font-size: 24px;
 }
 
 .post {
