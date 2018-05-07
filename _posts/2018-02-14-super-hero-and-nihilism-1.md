@@ -2,7 +2,7 @@
 layout: post
 title:  "《守望者》:超级英雄与虚无主义（上）"
 date:   2016-02-14
-tags: [BVS, 超人]
+tags: [守望者, BVS]
 description: 借着这部2009年上映的《守望者》，结合《钢铁之躯》和《蝙蝠侠对超人：正义黎明》，聊聊这个《守望者》中的的隐藏主题：超级英雄与虚无主义
 author: 狗剩博士
 title-image: https://i.loli.net/2018/05/07/5aefcb546b893.jpg
