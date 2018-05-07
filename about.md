@@ -18,6 +18,9 @@ permalink: /about/
 
 **[_posts](https://github.com/FromEndWorld/fromendworld.github.io/tree/master/_posts)** 文件夹内的所有文章版权均属于列出的文章作者，禁止一切未经授权的复制、修改、出版、发布和出售。
 
+#### 图片
+本站使用的大部分图片都是网页和电影截图，图床使用[sm.ms](https://sm.ms/)，对网页和电影截图，版权属于电影版权方或原网页，博文依据fair use引用。文章作者自制的图表版权则仍然属于原作者。
+
 
 ### 专栏内容
 
