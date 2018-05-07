@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "《守望者》:超级英雄与虚无主义（下）"
-date:   2018-03-31
+date: 2018-03-31
 tags: [BVS, 超人]
-description: 关于BVS的超人角色塑造
+description: 借着这部2009年上映的《守望者》，结合《钢铁之躯》和《蝙蝠侠对超人：正义黎明》，聊聊这个《守望者》中的的隐藏主题：超级英雄与虚无主义
 author: 狗剩博士
-title-image:https://i.loli.net/2018/05/07/5aefc215a60e8.jpg
+title-image: https://i.loli.net/2018/05/07/5aefc215a60e8.jpg
 ---
 
 距离上篇发表已经过去了一月有余，在此期间我也得到了许多反馈。对于一些朋友提出的问题和看法，在正文开始前，我想先在开头进行一些回答。
