@@ -110,10 +110,6 @@ hr {
   margin: 1.5em auto;
 }
 
-.entry img{
-  margin:0 auto;
-}
-
 // Yeun's list style
 // https://gist.github.com/yeun/d824fc7b04b756508f4b0143535cec30
 
@@ -265,7 +261,7 @@ a.footnote {
 img {
   display: block;
   max-width: 100%;
-  margin: 0 0 1em;
+  margin: 0 auto 1em;
   border-radius: 5px;
 }
 
