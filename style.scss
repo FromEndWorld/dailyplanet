@@ -581,7 +581,7 @@ ul.archive{
       color: $base-lighten-color;
       font-size: $small-font-size;
       font-weight: 300;
-      margin-left: 3px;
+      padding: 8px;
       }
   }
 
@@ -594,10 +594,6 @@ ul.archive{
     display:none;
   }
 
-
-  time {
-    
-  }
 }
 
 // Tags
