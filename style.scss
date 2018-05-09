@@ -566,9 +566,9 @@ ul.archive{
     width: 140px;
     list-style-type: none;
     height: 140px;
-    border: 1px solid oc-gray-7;
+    border: 1px solid $oc-gray-7;
     margin: 6px 4px;
-    background: #oc-gray-0;
+    background: $oc-gray-0;
 
     a{
       color: $base-color;
@@ -588,6 +588,10 @@ ul.archive{
   li:hover {
     background: #fff;
     border: 1px solid $link-color;
+  }
+
+  li:before {
+    display:none;
   }
 
 
