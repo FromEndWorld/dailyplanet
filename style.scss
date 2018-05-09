@@ -552,15 +552,47 @@ nav {
 }
 
 // Archive
+ul.archive{
+  margin:0 -4px;
+}
+
 .archive {
-  a {
-    color: $base-color;
+  h2{
+    margin-left: 4px;
   }
+
+  li{
+    display: inline-grid;
+    width: 140px;
+    list-style-type: none;
+    height: 140px;
+    border: 1px solid oc-gray-7;
+    margin: 6px 4px;
+    background: #oc-gray-0;
+
+    a{
+      color: $base-color;
+      padding: 8px;
+      height: 100px;
+      overflow: hidden;
+    }
+
+    time{
+      color: $base-lighten-color;
+      font-size: $small-font-size;
+      font-weight: 300;
+      margin-left: 3px;
+      }
+  }
+
+  li:hover {
+    background: #fff;
+    border: 1px solid $link-color;
+  }
+
+
   time {
-    color: $base-lighten-color;
-    font-size: $small-font-size;
-    font-weight: 300;
-    margin-left: 3px;
+    
   }
 }
 
