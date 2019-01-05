@@ -3,7 +3,7 @@ layout: post
 title:  "视觉叙事的力量"
 date:   2016-08-28
 tags: [BVS, 视觉]
-description: 对台词多寡的驳论——电影依然是移动的影响
+description: 对台词多寡的驳论——电影依然是移动的影像
 title-image: https://i.loli.net/2018/05/05/5aedc0825eec6.jpg
 author: The Sentry
 ---
