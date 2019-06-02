@@ -422,7 +422,6 @@ nav {
 
     .title-image-thumb{
       float: left;
-      display: inline-block;
       width: 200px;
       height: 120px;
       border-radius: 5px;
@@ -566,7 +565,7 @@ ul.archive{
     width: 140px;
     list-style-type: none;
     height: 140px;
-    border: 1px solid $oc-gray-7;
+    border: 1px solid $oc-gray-1;
     margin: 6px 4px;
     background: $oc-gray-0;
 
@@ -586,7 +585,7 @@ ul.archive{
   }
 
   li:hover {
-    background: #fff;
+    background: $oc-indigo-0;
     border: 1px solid $link-color;
   }
 
@@ -644,7 +643,7 @@ ul.archive{
 .wrapper-footer {
   margin-top: 50px;
   border-top: 1px solid $footer-border-color;
-  border-bottom: 1px solid $footer-border-color;
+//  border-bottom: 1px solid $footer-border-color;
   background-color: $footer-background-color;
 }
 
