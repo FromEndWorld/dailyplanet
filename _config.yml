@@ -12,10 +12,10 @@ description: Daily Planet
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/dp-logo.png
+avatar: https://fromendworld.github.io/dailyplanet/images/dp-logo.png
 
 # URL of your favicon
-favicon: images/dp-icon.png
+favicon: https://fromendworld.github.io/dailyplanet/images/dp-icon.png
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
